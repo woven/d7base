@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Base modules feature.
+ */
+
+include_once('ft_base.features.inc');

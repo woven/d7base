@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the User & Registration feature.
+ */
+
+include_once('ft_user.features.inc');
