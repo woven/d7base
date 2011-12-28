@@ -20,8 +20,8 @@ function ft_base_ctools_plugin_api() {
 function ft_base_default_profile2_type() {
   $items = array();
   $items['main'] = entity_import('profile2_type', '{
-    "userCategory" : true,
-    "userView" : true,
+    "userCategory" : false,
+    "userView" : false,
     "type" : "main",
     "label" : "Main profile",
     "weight" : "0",
